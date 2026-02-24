@@ -444,7 +444,7 @@ This project successfully demonstrates fine-tuning a small language model for do
 ---
 
 ## Author
-Vineet Kumar Srivastava
+Vineet Kumar Srivastava  
 Fine-tuned for IIT Delhi AI/ML Course - Module 5 Project
 
 **Date**: 2026
