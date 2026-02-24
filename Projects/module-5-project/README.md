@@ -421,7 +421,7 @@ assist you at [Customer Support Phone Number] or through our website's live chat
 
 ## Limitations
 
-### 1. BLEU Score Below Target
+### 1. BLEU Score
 - **Current**: 0.40 (2 questions) / 0.32 (10 questions)
 
 ### 2. Dataset Limitations
